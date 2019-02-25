@@ -975,5 +975,6 @@
         <string name="date_long_click_enabled">Enable long press date action</string>
         <string name="pulldown_date_long_click">Select long press date action </string>
         <string name="data_long_click_string">Long press the date to start any program</string>
+	<string name="fab_style">Fab button</string>
     </resources>
 
