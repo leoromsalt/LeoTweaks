@@ -30,7 +30,7 @@
         <item>@string/show_dsp_sumarry</item>
         <item>三星隱藏網絡菜單</item>   
     </string-array>
-    <string-array name="hidden_​​icons_options">
+    <string-array name="statusbar_icon_hide_options">
         <item>屏幕旋轉</item>
         <item>HD1</item>
         <item>HD2</item>
