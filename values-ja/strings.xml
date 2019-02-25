@@ -171,9 +171,7 @@
    <string name="statusbar_clock_details_off">中国の時間の詳細を表示する</string>
    <string name="statusbar_clock_seconds">時間追加秒数</string>
    <string name="statusbar_clock_ampm">午前/午後の設定（中国語はサポートされていません）</string>
-   <string name="details_style">時間表示詳細スタイル</string><![CDATA[
-        
-        ]]>
+   <string name="details_style">時間表示詳細スタイル</string>
     <string name="statusbar_clock_date">日付設定</string>
    <string name="statusbar_clock_date_off">表示日</string>
    <string name="clock_date_style">日付フォーマット</string>
