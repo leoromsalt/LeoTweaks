@@ -1,4 +1,6 @@
-<string-array name="full_screen_options">
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="full_screen_options">
         <item>@string/full_screen_0</item>
         <item>@string/full_screen_1</item>
         <item>@string/full_screen_2</item>
@@ -115,23 +117,6 @@
         <item>nfc_on</item>
         <item>battery</item>
         <item>cast</item>
-
-    </string-array>
-    <string-array name="hidden_icons_options">
-        <item>Status bar Screenrotate logo</item>
-        <item>Status bar Sim1 logo</item>
-        <item>Status bar Sim2 logo</item>
-        <item>Status bar Alarm logo</item>
-        <item>Status bar Mobile Data logo</item>
-        <item>Status bar Powersave logo</item>
-        <item>Status bar Airplane</item>
-        <item>Status bar Earphone</item>
-        <item>Status bar Sound</item>
-        <item>Status bar WIFI logo</item>
-        <item>Status bar Bluetooth logo</item>
-        <item>Status bar NFC logo</item>
-        <item>Status bar Battery logo(Only for stock battery)</item>
-        <item>Status bar Boardcast logo</item>
 
     </string-array>
 
@@ -650,9 +635,9 @@
 
 
     <string-array name="votage_style_entries">
-        <item>Voltage</item>
-        <item>Current</item>
-        <item>Current+Voltage</item>
+        <item>电压</item>
+        <item>电流</item>
+        <item>电压+电流</item>
     </string-array>
 
 
@@ -898,5 +883,20 @@
         <item>131</item>
         <item>132</item>
 </string-array>
+      <string-array name="statusbar_icon_hide_options">
+            <item>rotation</item>
+            <item>HD1</item>
+            <item>HD2</item>
+            <item>alarm</item>
+            <item>mobile data</item>
+            <item>power saving mode</item>
+            <item>airplane mode </item>
+            <item>headset</item>
+            <item>Sound/vibration</item>
+            <item>WIFI</item>
+            <item>bluetooth</item>
+            <item>NFC</item>
+            <item>Battery (official only)</item>
+            <item>project</item>
+        </string-array>
 </resources>
-
