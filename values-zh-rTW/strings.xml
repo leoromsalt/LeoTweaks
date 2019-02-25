@@ -544,70 +544,7 @@
     <string name="battery23">電流為: </string>
     <string name="battery24">充電循環次數: </string>
     <!--ICON-->
-  
-<String name="status_bar_logo">zhuàngtài lán Logo biāozhì </string>
-    <string name="status_bar_logo_style">zhuàngtài lán Logo biāozhì lèixíng </string>
-    <string name="statusbar_logo_position">zhuàngtài lán Logo biāozhì xiǎnshì wèizhì </string>
-    <string name="statusbar_logo_size">zhuàngtài lán Logo dàxiǎo </string>
-    <string name="statusbar_logo_color_enabled">yǔnxǔ zì dìngyì Logo yánsè </string>
-    <string name="status_bar_logo_color">zhuàngtài lán Logo biāozhì yánsè </string>
-    <string name="status_bar_icon_custom">zì dìngyì túbiāo </string>
-    <string name="update_mods2">*xìnhào túbiāo gēngxīn shèzhì </string>
-    <string name="statusbar_signal_single_icon">*yǔnxǔ zì dìngyì xìnhào túbiāo </string>
-    <string name="status_bar_sim_icon">*zì dìngyì xìnhào túbiāo </string>
-    <string name="status_bar_wifi_arrow">*yǔnxǔ zì dìngyì WIFI túbiāo </string>
-    <string name="status_bar_wifi_icon">*Wifi túbiāo zì dìngyì </string>
-    <string name="status_bar_other_icon">qítā túbiāo </string>
-    <string name="icon_blacklist">zhuàngtài lán túbiāo yǐncáng </string>
-    <string name="icon_blacklist_sumarry">xuǎnzé xūyào yǐncáng de zhuàngtài lán xiàngmù </string>
-    <string name="status_bar_flashlight_icon">*jìnyòng shǒudiàntǒng túbiāo </string>
-    <!--Diànchí-->
-    <string name="main_battery">diànliàng túbiāo qiēhuàn </string>
-    <string name="custombattery_preference">zì dìngyì diànchí zǔ </string>
-    <string name="battery_percentage">diànliàng bǎifēnbǐ </string>
-    <string name="disable_stock_battery_icon">yǐncáng guānfāng diànchí túbiāo </string>
-    <string name="battery_color">diànliàng yánsè shèzhì (bù zhīchí guānfāng)</string>
-    <string name="battery_allow_standby_charge">zì dìngyì yánsè </string>
-    <string name="battery_standby_color">túbiāo yánsè </string>
-    <string name="battery_text_standby_color">bǎifēnbǐ yánsè </string>
-    <string name="battery_text_title">dàxiǎo shèzhì (bù zhīchí guānfāng)</string>
-    <string name="battery_text_size">bǎifēnbǐ wénběn dàxiǎo </string>
-    <string name="battery_icon_size">diànliàng túbiāo dàxiǎo </string>
-    <string name="statusbar_battery_bar">diànliàng tiáo xiǎnshì </string>
-    <string name="custombattery_preference_sumarry">xuǎnzé gèng duō de diànchí zǔ tóngyàng nǐ yě kěyǐ xiàzài gèng duō de diànchí zǔ. Ruòshì nǐ duì wǒmen tígōng diànchí zǔ bù mǎnyì, nǐ hái kěyǐ zìjǐ dòngshǒu zìxíng zìzhì xǐ'ài de diànliàng túbiāo </string>
-    <!--Diànchí-->
-    <string name="statusbar_temperature">wēndù (xiǎnshì/yǐncáng)</string>
-    <string name="statusbar_temperature_color_enabled">yǔnxǔ zì dìngyì wēndù yánsè </string>
-    <string name="statusbar_temperature_color">wēndù wénběn yánsè </string>
-    <!--Zhuàngtài lán shǒushì-->
-    <string name="status_bar_left_enable_tilte">zhuàngtài lán zuǒshàng jiǎo dòngzuò </string>
-    <string name="status_bar_left_enable">qǐyòng zuǒshàng jiǎo dòngzuò </string>
-    <string name="status_bar_right_enable_tilte">zhuàngtài lán yòushàng jiǎo dòngzuò </string>
-    <string name="status_bar_right_enable">qǐyòng yòushàng jiǎo dòngzuò </string>
-    <string name="statusbar_click_tilte">dān jī dòngzuò </string>
-    <string name="statusbar_click_action">zì dìngyì dān jī dòngzuò </string>
-    <string name="statusbar_longclick_tilte">zhǎng àn dòngzuò </string>
-    <string name="statusbar_longclick_action">zì dìngyì zhǎng àn dòngzuò </string>
-    <string name="statusbar_longclick_app">zì dìngyì zhǎng àn qǐdòng chéngxù </string>
-    <string name="status_bar_doubletap_tilte">shuāngjī zhuàngtài lán rènyì wèizhì dòngzuò </string>
-    <string name="status_bar_doubletap_action">zì dìngyì shuāngjī zhuàngtài lán dòngzuò </string>
-    <string name="status_bar_doubletap_app">zì dìngyì shuāngjī zhuàngtài lán qǐdòng chéngxù </string>
-    <!--Tōngzhī lán liúliàng-->
-    <string name="data_usage_tilte">liúliàng mókuài </string>
-    <string name="data_usage_text">liúliàng xiǎnshì mókuài </string>
-    <string name="data_usage_text_size">liúliàng wénběn dàxiǎo </string>
-    <string name="data_usage_text_gravity">xiǎnshì wèizhì </string>
-    <!--Tōngzhī lán shuāng kǎ-->
-    <!--Jíshí tōngzhī-->
-    <string name="notice_button_text">‖tōngzhī shèzhì‖wénběn shèzhì </string>
-    <string name="notice_noti_clear_button_text_size">‖tōngzhī shèzhì‖qīngchú‖wénběn dàxiǎo </string>
-    <!--Yunyingshang-->
-    <string name="notification_carrier">tōngzhī lán yùnyíng shāng qiēhuàn </string>
-    <string name="notification_carrier_label_size">yùnyíng shāng wénběn dàxiǎo </string>
-    <string name="notification_carrier_color_enabled">shìfǒu yǔnxǔ zì dìngyì yùnyíng shāng wénběn yánsè </string>
-    <string name="notification_carrier_label_color">yùnyíng shāng wénběn yánsè </string>
-展开
-3447/5000
+ 
 <string name="status_bar_logo">狀態欄Logo標識</string>
     <string name="status_bar_logo_style">狀態欄Logo標識類型</string>
     <string name="statusbar_logo_position">狀態欄Logo標識顯示位置</string>
