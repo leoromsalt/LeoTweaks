@@ -30,23 +30,7 @@
              <item> @string/show_dsp_sumarry </item>
              <item>サムスンの隠しネットワークメニュー</item>
          </string-array>
-         <string-array name = "hidden_icons_options">
-             <item>駅のような画面</item>
-             <item> HD1 </item>
-             <item> HD2 </item>
-             <item>アラーム</item>
-             <item>モバイルデータ</item>
-             <item>省電力モード</item>
-             <item>フライトモード</item>
-             <item>ヘッドフォン</item>
-             <item>音/振動</item>
-             <item> WIFI </item>
-             <item> Bluetooth </item>
-             <item> NFC </item>
-             <item>バッテリー（公式のみ）</item>
-             <item>投影</item>
 
-         </string-array>
 
     <string-array name = "device_info_entries">
                  <item>デバイス信号</item>
@@ -123,7 +107,22 @@
             <item>システムデフォルト</item>
             <item>レオ電池パック</item>
         </string-array>
-
+    <string-array name="statusbar_icon_hide_options">
+                 <item>画面の回転</item>
+                 <item> HD1 </item>
+                 <item> HD2 </item>
+                 <item>アラーム</item>
+                 <item>モバイルデータ</item>
+                 <item>省電力モード</item>
+                 <item>フライトモード</item>
+                 <item>ヘッドフォン</item>
+                 <item>音/振動</item>
+                 <item> WIFI </item>
+                 <item> Bluetooth </item>
+                 <item> NFC </item>
+                 <item>バッテリー（公式のみ）</item>
+                 <item>投影</item>
+             </string-array>
         <string-array name = "bg_gradient_type_entries">
             <item>上から下へのグラデーション</item>
             <item>下から上へのグラデーション</item>
@@ -169,7 +168,6 @@
             <item>月面</item>
             <item>季節</item>
         </string-array>
-        
     <string-array name = "logo_style_entries">
             <item>レオROM </item>
             <item>アリババ</item>
@@ -310,13 +308,11 @@
         </string-array>
 
 
-
-        <string-array name = "GoodLock_entries">
-            <item>サイドスクリーンフラッシュ</item>
-            <item>マルチタスクスイッチ</item>
-            <item>片手操作</item>
-        </string-array>
+    <string-array name = "GoodLock_entries">
+                <item>サイドスクリーンフラッシュ</item>
+                <item>マルチタスクスイッチ</item>
+                <item>片手操作</item>
+            </string-array>
+        
 
 </resources>
-
-
