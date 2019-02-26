@@ -976,5 +976,39 @@
         <string name="pulldown_date_long_click">Select long press date action </string>
         <string name="data_long_click_string">Long press the date to start any program</string>
 	<string name="fab_style">Fab button</string>
+	<string name="pulldown_qs_clock_tabs">pull down time </string>
+        <string name="pulldown_qs_date_tabs">Drop down date </string>
+        <string name="list_grid_button">Button</string>
+        <string name="list_grid_button_summary">pull down button custmosize</string>
+        <!--Notification button-->
+        <string name="settingsbutton"> drop down button </string>
+        <string name="settingsbutton_visibility">Hide drop-down settings button </string>
+        <string name="settingsbutton_click">Select settings button click action </string>
+        <string name="settingsbutton_string">Set button to start any program </string>
+        <string name="searchbutton">drop-down search button </string>
+        <string name="searchbutton_bisibility">Hide drop-down search button </string>
+        <string name="searchbutton_click">Search button click action </string>
+        <string name="searchbutton_string">Set search button to start any program</string>
+        <!--Notification Clock-->
+        <string name="qsclock"> pull down small time setting </string>
+        <string name="qsclock_custom_enabled"> custom pull down time </string>
+        <string name="qsclock_size"> custom pull down small time size </string>
+        <string name="qsclock_font"> pull down small time font style </string>
+        <string name="qsclock_visibility">Hide drop-down time </string>
+        <string name="qsclock_big"> pull down large time settings </string>
+        <string name="qsclock_big_custom_enabled"> custom pull down time </string>
+        <string name="qsclock_big_size"> custom pull down large size </string>
+        <string name="qsclock_big_font"> pull down large time font style </string>
+        <string name="qsclock_big_visibility">Hide drop down time </string>
+        <string name="qsclock_vibrate"> pull-down time action feedback </string>
+        <string name="qsclock_click">drop-down time click action </string>
+        <string name="qsclock_click_enabled">Enable pull-down time click action</string>
+        <string name="qsclock_click_action">Select click event action </string>
+        <string name="qsclock_click_string">Click to start any program</string>
+        <string name="qsclock_long"> pull-down time long press action </string>
+        <string name="qsclock_long_enabled">Enable pull-down time long press action </string>
+        <string name="qsclock_long_action"> select the pull-down time long press action </string>
+        <string name="qsclock_long_string"> set long press to start any program </string>
+        <string name="data_vibrate">date action feedback</string>
     </resources>
 
