@@ -129,19 +129,7 @@
     <!-- 状态栏时间日期. -->
     <string name="status_bar_date_string_edittext_title">"自定义日期格式"</string>
     <string name="status_bar_date_string_edittext_summary">输入字符(也可是任意文字或者Emoji表情)</string>
-    <string name="date_format">MMMd日</string><![CDATA[
-
-
-
-
-
-
-
-
-
-
-
-      ]]>
+    <string name="date_format">MMMd日</string>
     <string name="accelerate">一键加速</string>
       <string name="lock">一键锁屏</string>
     <string name="grid_task_apps">设备信息</string>
@@ -987,5 +975,39 @@
     <string name="date_long_click_enabled">启用长按日期动作</string>
     <string name="pulldown_date_long_click">选择长按日期动作</string>
     <string name="data_long_click_string">长按日期启动任意程序</string>
+    <string name="pulldown_qs_clock_tabs">下拉时间</string>
+    <string name="pulldown_qs_date_tabs">下拉日期</string>
+    <string name="list_grid_button">下拉按钮</string>
+    <string name="list_grid_button_summary">下拉按钮个性化设置</string>
+      <!--Notification button-->
+    <string name="settingsbutton">下拉设置按钮</string>
+    <string name="settingsbutton_visibility">隐藏下拉设置按钮</string>
+    <string name="settingsbutton_click">选择设置按钮点击动作</string>
+    <string name="settingsbutton_string">设置按钮启动任意程序</string>
+    <string name="searchbutton">下拉搜索按钮</string>
+    <string name="searchbutton_bisibility">隐藏下拉搜索按钮</string>
+    <string name="searchbutton_click">搜索按钮点击动作</string>
+    <string name="searchbutton_string">设置搜索按钮启动任意程序</string>
+     <!--Notification Clock-->
+    <string name="qsclock">下拉小时间设置</string>
+    <string name="qsclock_custom_enabled">自定义下拉小时间</string>
+    <string name="qsclock_size">自定义下拉小时间大小</string>
+    <string name="qsclock_font">下拉小时间字体风格</string>
+    <string name="qsclock_visibility">隐藏下拉时间</string>
+    <string name="qsclock_big">下拉大时间设置</string>
+    <string name="qsclock_big_custom_enabled">自定义下拉大时间</string>
+    <string name="qsclock_big_size">自定义下拉大时间大小</string>
+    <string name="qsclock_big_font">下拉大时间字体风格</string>
+    <string name="qsclock_big_visibility">隐藏下拉大时间</string>
+    <string name="qsclock_vibrate">下拉时间动作回馈</string>
+    <string name="qsclock_click">下拉时间点击动作</string>
+    <string name="qsclock_click_enabled">启用下拉时间点击动作</string>
+    <string name="qsclock_click_action">选择点击事件动作</string>
+    <string name="qsclock_click_string">点击时间启动任意程序</string>
+    <string name="qsclock_long">下拉时间长按动作</string>
+    <string name="qsclock_long_enabled">启用下拉时间长按动作</string>
+    <string name="qsclock_long_action">选择下拉时间长按动作</string>
+    <string name="qsclock_long_string">设置长按启动任意程序</string>
+    <string name="data_vibrate">日期动作回馈</string>
 </resources>
 
