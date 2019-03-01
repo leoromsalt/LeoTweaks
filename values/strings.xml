@@ -15,6 +15,7 @@
 <item name="pager_image6" type="id" />
 <item name="pager_image7" type="id" />
 <item name="pager_image8" type="id" />
+     <string name="fab_style">Fab button</string>
 <string name="assist_grid_log">Log cat</string>
 <string name="assist_grid_autostart">Autostart manager</string>
 <string name="assist_grid_apps">Apps manager</string>
@@ -293,10 +294,6 @@
 <string name="assist_grid_property">Performing mode</string>
 <string name="assist_grid_property_sumarry">Device performaning set ,cache clean ,thermel set</string>
 
-
-<string-array name="log_it_share_type_values" translatable="false">
-<item>0</item>
-</string-array>
 <string name="logcat_title">Logcat</string>
 <string name="kmesg_title">kernel cat</string>
 <string name="dmesg_title">boot cat</string>
@@ -308,10 +305,6 @@
 <string name="log_it_logs_in_progress">catting the log&#8230;</string>
 <string name="log_it_share_type_title">share method</string>
 <string name="log_it_share_type_zip">ZIP file</string>
-<string-array name="log_it_share_type_entries" translatable="false">
-<item>@string/log_it_share_type_zip</item>
-</string-array>
-
 <string name="leo_tweaks_a">" donation"</string>
 <string name="leo_tweaks_b">" normal"</string>
 <string name="list_grid_clock_summary">Clock custmosize</string>
@@ -383,11 +376,6 @@
 <string name="select_wallpaper">selcet wallpaper</string>
 <string name="list_grid_code">special thanks for</string>
 <string name="language">LeoROM some feature only suitable for \n\n 🇨🇳 China \n 🇭🇰 Hong Kong Special Administrative Region of China\n 🇲🇴 Macau Special Administrative Region of China/Taiwan Province of China \n\n If you not using above lanaguage some feature will not be support</string>
-<string-array name="backup_items">
-<item>backup data</item>
-<item>restore data</item>
-</string-array>
-    <!--备份 -->
 <string name="backup_file_prefix_date_format" translatable="false">yy-dd-MM_HH:mm</string>
 <string name="backup_file_suffix" translatable="false">_LeoBackup</string>
 <string name="backup_complete_toast">backup finish,saved in\n%1$s</string>
@@ -969,14 +957,14 @@
         <string name="clear_all_button_custom_string">Clear button text customization </string>
         <string name="setting_button_custom_enablede">Switch Notification Settings button text </string>
         <string name="pulldown_date_click_name">date click action</string>
-    <string name="pulldown_date_click">Select click date action </string>
+           <string name="pulldown_date_click">Select click date action </string>
         <string name="data_click_string">Click on the date to start any program</string>
         <string name="date_long_click">long press date action</string>
         <string name="date_long_click_enabled">Enable long press date action</string>
         <string name="pulldown_date_long_click">Select long press date action </string>
         <string name="data_long_click_string">Long press the date to start any program</string>
-	<string name="fab_style">Fab button</string>
-	<string name="pulldown_qs_clock_tabs">pull down time </string>
+
+            <string name="pulldown_qs_clock_tabs">pull down time </string>
         <string name="pulldown_qs_date_tabs">Drop down date </string>
         <string name="list_grid_button">Button</string>
         <string name="list_grid_button_summary">pull down button custmosize</string>
@@ -1010,5 +998,24 @@
         <string name="qsclock_long_action"> select the pull-down time long press action </string>
         <string name="qsclock_long_string"> set long press to start any program </string>
         <string name="data_vibrate">date action feedback</string>
-    </resources>
+    <string name="ota_update_system">OTA Line</string>
+    <string name="ota_update_url">Line1</string>
+    <string name="ota_update_url_2">Line2</string>
+    <string name="translator_team">"Language translation support:\n\nSimplified Chinese:<font color="#0080FF">Salt</font>\nJapanese:<font color="#0080FF">深見　ひとみ</font>\nSpanish:<font color="#0080FF">Zalito</font>\nTraditional Chinese:<font color="#0080FF">Plmh</font>\nEnglish:<font color="#0080FF">Plmh</font><br />\n\n<font color="#FF0080">Welcome more friends to help us translate</font>\nGithub:<font color="#AE57A4">https://github.com/leoromsalt</font>"</string>
+    <string name="global_actions_emergency">emergency mode</string>
+         <string name="global_actions_restart">restart </string>
+         <string name="global_actions_screenshot">screenshot </string>
+         <string name="global_actions_quickboot">Quick restart </string>
+         <string name="global_actions_download">line brush mode </string>
+         <string name="global_actions_recovery"> card brush mode </string>
+         <string name="global_actions_flashlight">Auxiliary Lights</string>
+         <string name="global_actions_outdoor">outdoor mode</string>
+         <string name="global_actions_mipop">Screen Assistant </string>
+         <string name="global_actions_screenrecord"> screen recording </string>
+         <string name="global_actions_airplane">flight mode </string>
+         <string name="global_actions_wifi">WIFI switch </string>
+         <string name="global_actions_sound">sound mode</string>
+         <string name="global_actions_floating">suspension ball </string>
+         <string name="global_actions_data">moving data </string>
+</resources>
 
