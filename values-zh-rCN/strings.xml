@@ -362,13 +362,6 @@
     <string name="select_wallpaper">壁纸选择</string>
     <string name="list_grid_code">特别致谢</string>
     <string name="language">LeoROM部分功能仅支持\n\n 🇨🇳 中国大陆\n 🇭🇰 中国香港\n 🇲🇴 中国澳门及中国台湾省 \n\n 如果你不是使用以上语言部分功能将不支持</string>
-
-    <string-array name="backup_items">
-        <item>备份数据</item>
-        <item>恢复数据</item>
-    </string-array>
-    <!--备份 -->
-
     <string name="backup_complete_toast">备份完成,备份数据存储在\n%1$s</string>
     <string name="restore_complete_toast">数据恢复完成</string>
     <string name="restore_confirm_dialog_title">确认数据恢复</string>
@@ -478,7 +471,7 @@
     <string name="process_download">正在下载更新包</string>
     <string name="download_ok">下载完成,10秒后将自动开始更新</string>
     <string name="process_update">正在更新系统</string>
-    <string name="download_without">当前你已经是最新版本,或者是可用更新</string>
+    <string name="download_without">1.下载失败\n 2.当前你已经是最新版本\n 3.或者是无可用更新</string>
     <string name="update_count_down">自动更新倒计时</string>
     <string name="second">秒</string>
     <string name="download_pause">暂停下载</string>
@@ -490,7 +483,7 @@
     <string name="stop_date">截止日期:</string>
     <string name="push">是否推送:</string>
     <string name="network_no">当前未有网络连接,无法使用OTA服务</string>
-    <string name="network_data" tools:ignore="ExtraTranslation">我们检测到你当前是移动数据状态,由于在线更新使用流量数据较大,我们建议你切换到无线网络!在使用OTA服务!</string>
+    <string name="network_data" tools:ignore="ExtraTranslation">我们检测到你当前是移动数据状态,由于在线更新使用流量数据较大,我们建议你切换到无线网络!再使用OTA服务!</string>
     <string name="next">下次</string>
     <string name="wilful">就是任性使用使用数据</string>
     <string name="upload_ota">正在获取更新数据......</string>
@@ -650,9 +643,7 @@
     <string name="pulldown_blur">下拉模糊效果</string>
     <string name="pulldown_blur_style">模糊效果调节</string>
     <string name="pulldown_attention">注意</string>
-    <!--下拉按钮-->
-    <!--户外模式-->
-    <!--app设置-->
+
     <string name="theme">主题</string>
     <string name="app_theme">主题设置</string>
     <string name="subtitle">标题设置</string>
@@ -919,6 +910,9 @@
     <string name="global_action_flashlight">手电筒</string>
     <string name="global_action_mipop">屏幕助手</string>
     <string name="global_action_floating">悬浮球</string>
+    <string name="ota_update_system">OTA 线路</string>
+    <string name="ota_update_url">线路1</string>
+    <string name="ota_update_url_2">线路2</string>
     <!--OTA线路-->
     <!--表盘-->
     <string name="analog_clock_dial_styt">模拟时间表盘</string>
@@ -1009,5 +1003,24 @@
     <string name="qsclock_long_action">选择下拉时间长按动作</string>
     <string name="qsclock_long_string">设置长按启动任意程序</string>
     <string name="data_vibrate">日期动作回馈</string>
+
+    <string name="translator_team">"语言翻译支持\n简体中文:<font color="#0080FF">Salt</font>\n日语:<font color="#0080FF">深见　ひとみ</font>\n西班牙语:<font color="#0080FF">Zalito</font>\n繁体中文:<font color="#0080FF">Plmh</font>\n英语:<font color="#0080FF">Plmh</font><br />\n<font color="#FF0080">欢迎更多小伙伴协助我们翻译</font>\nGithub:<font color="#AE57A4">https://github.com/leoromsalt</font>"</string>
+
+    <string name="global_actions_emergency">紧急模式</string>
+    <string name="global_actions_restart">重新启动</string>
+    <string name="global_actions_screenshot">屏幕截图</string>
+    <string name="global_actions_quickboot">快速重启</string>
+    <string name="global_actions_download">线刷模式</string>
+    <string name="global_actions_recovery">卡刷模式</string>
+    <string name="global_actions_flashlight">辅助灯光</string>
+    <string name="global_actions_outdoor">户外模式</string>
+    <string name="global_actions_mipop">屏幕助手</string>
+    <string name="global_actions_screenrecord">屏幕录像</string>
+    <string name="global_actions_airplane">飞行模式</string>
+    <string name="global_actions_wifi">WIFI切换</string>
+    <string name="global_actions_sound">声音模式</string>
+    <string name="global_actions_floating">悬浮球</string>
+    <string name="global_actions_data">移动数据</string>
+
 </resources>
 

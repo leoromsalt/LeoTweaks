@@ -18,7 +18,10 @@
         <item>动画 5x</item>
         <item>动画 10x</item>
     </string-array>
-  
+  <string-array name="backup_items">
+        <item>备份数据</item>
+        <item>恢复数据</item>
+    </string-array>
     <string-array name="wipe_entries">
         <item>清理 Data</item>
         <item>清理 Cache</item>
@@ -45,7 +48,6 @@
         <item>NFC</item>
         <item>电池(仅限官方)</item>
         <item>投射</item>
-
     </string-array>
 
     <string-array name="device_info_entries">
